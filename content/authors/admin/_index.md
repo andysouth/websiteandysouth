@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: 
+#bio: 
 # education:
 #   courses:
 #   - course: PhD in Ecology
