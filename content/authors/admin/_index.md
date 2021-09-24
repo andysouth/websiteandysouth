@@ -30,7 +30,7 @@ social:
   link: https://scholar.google.com/citations?user=eJz46kAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/AndySouth
+  link: https://github.com/andysouth
 superuser: true
 user_groups:
 - Researchers
