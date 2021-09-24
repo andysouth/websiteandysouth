@@ -37,4 +37,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a researcher and R open-source software developer working in global health. I'm currently leading the [afrimapr](www.afrimapr.org) project, developing R building-blocks to ease the use of spatial health data in Africa.
+I'm a data scientist & R open-source software developer working in health. I'm currently leading the [afrimapr](http://www.afrimapr.org) project, developing R building-blocks, training and community to ease the use of spatial health data in Africa. I'm also providing [data science training](https://github.com/uclh-criu/learning-datascience) and mentoring for a group of clinicians at University College London Hospital.
