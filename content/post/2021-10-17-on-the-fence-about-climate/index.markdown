@@ -16,3 +16,7 @@ image:
   preview_only: no
 projects: []
 ---
+
+Back in 2019 I had the idea to paint my garden fence to represent climate change.
+
+Inspired by the warming stripes of Ed Hawkins.
