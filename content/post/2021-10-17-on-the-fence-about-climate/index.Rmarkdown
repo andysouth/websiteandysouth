@@ -1,5 +1,5 @@
 ---
-title: On the fence about climate?
+title: How to paint your fence with the climate.
 author: Andy South
 date: '2021-11-14'
 slug: []
@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-11-14'
+lastmod: '2021-11-28'
 featured: no
 image:
   caption: ''
@@ -20,13 +20,13 @@ projects: []
 
 ![](IMG_20211017_fence-completed.jpg)
 
-I've painted my garden fence in Norwich to represent the changing climate recorded in nearby Lowestoft over the past 100 years. The design is relatively simple. There are just four colours, dark blue represents 8 degrees C, light blue 9 degrees C, light red 10 degrees C and dark red 11 degrees C. The design is inspired by, but simpler than, the warming stripes developed by climate scientist Ed Hawkins and used by the BBC to identify their climate coverage during the recent COP 26 climate summit.
+I've painted my garden fence in Norwich to represent the changing climate recorded in nearby Lowestoft over the past 100 years. The design is relatively simple. There are just four colours, dark blue represents 8 degrees C, light blue 9 degrees C, light red 10 degrees C and dark red 11 degrees C. The design is inspired by, but simpler than, the warming stripes developed by climate scientist Ed Hawkins and used by the BBC to identify their climate coverage during the recent COP 26 climate summit. The design and panting were not too tricky - maybe you could do something similar on your fence or one at your school or university ?
 
-Temperatures have been recorded at a Met Office weather station in Lowestoft for more than 100 years. Data are available online, giving the monthly maximum and minimum temperatures. I calculated the midpoint between the extremes per month and then used that that to calculate an average for the year. The number of slats that needed painting on my fence was coincidentally very close to the number of years of temperature data.
+Temperatures have been recorded at a Met Office weather station in Lowestoft for more than 100 years. Data are available online, giving the monthly maximum and minimum temperatures. I calculated the midpoint between the extremes per month and then used that that to calculate an average for the year. The number of slats that needed painting on my fence was coincidentally very close to the number of years of available temperature data.
 
 ![](IMG_20200913_fence-before.jpg)
 
-I'm a big fan of an open-source data programming language called R. Some R code that someone else had shared online, allowed me to use a computer to experiment with different colour plots. When there was a paint sale at a local DIY superstore I went out & bought 6 different paint colours - three reds for hotter temperatures and three blues for colder temperatures.
+I'm a big fan of an open-source data programming language called R. Some R code, that someone else had shared online, allowed me to experiment with different colour plots. When there was a paint sale at a local DIY superstore I went out & bought 6 different paint colours - three reds for hotter temperatures and three blues for colder temperatures.
 
 ![](IMG_20200917_fence-paint.jpg) ![](IMG_20200922_fence-paint-testing.jpg)
 

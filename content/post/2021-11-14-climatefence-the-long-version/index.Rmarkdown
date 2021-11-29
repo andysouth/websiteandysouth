@@ -1,7 +1,7 @@
 ---
-title: climatefence - the long version
+title: climatefence - how to paint your fence with the climate, R & ggplot
 author: Andy South
-date: '2021-11-14'
+date: '2021-11-28'
 slug: []
 categories: []
 tags: []
@@ -19,12 +19,10 @@ projects: []
 
 ![](IMG_20210927_fence-completed-side.jpg) ![](IMG_20210925_fence-painting-me.jpg)
 
-For the shorter, non-technical version see ...[todo, add link to other post]
+Here I explain how I painted the garden fence of my Norwich home to represent changing climate over the past 100 years. This post gives the technical details of the design using the R coding language. For a shorter post without the technical details see ...[todo, add link to other post].
 
 
-Back in 2019 I had the idea to paint my garden fence to represent climate change.
-
-Inspired by the warming stripes of Ed Hawkins.
+A few years ago I had the idea to paint my garden fence to represent climate change, inspired by the warming stripes of Ed Hawkins.
 
 In 2020 I started designing, bought the paint and started designing.
 
