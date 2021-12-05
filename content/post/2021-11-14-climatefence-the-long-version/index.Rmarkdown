@@ -24,17 +24,15 @@ Here I explain how I painted the garden fence of my Norwich home to represent ch
 
 A few years ago I had the idea to paint my garden fence to represent climate change, inspired by the warming stripes of Ed Hawkins.
 
-In 2020 I started designing, bought the paint and started designing.
+In 2020 I started designing, bought the paint and got as far as an undercoat. In 2021 I actually got around to completing.
 
-In 2021 I actually got around to painting it.
+It all started from the practical situation that the garden fence of our Norwich house was looking somewhat weather-worn. I counted the panels to find that there were 88 on the fence, 10 on the gate and 8 posts. This gave me the potential to represent around 100 years. So if I was finishing in the present I could go do about 1920-2020.
 
-It all started from the practical situation that the garden fence of our Norwich house was looking somewhat weather-worn.
+I looked at [showyourstripes.info](www.showyourstripes.info) the excellent website by the University of Reading and Ed Hawkins. It shows the pattern for the Globe from 1850 based on UK met Office data.
 
-I counted the panels to find that there were 88 on the fence, 10 on the gate and 8 posts. This gave me the potential to represent around 100 years. So if I was finishing in the present I could go do about 1920-2020.
+When I looked it wasn't obvious how to access the data behind the visualisations - I was going to need that to work out what colour to paint each panel given that I couldn't afford to use as many colours as they did.
 
-I looked at showyourstripes.info the excellent website by the University of Reading and Ed Hawkins. It shows the pattern for the Globe from 1850 based on UK met Office data.
-
-It wasn't obvious how to access the data behind the visualisations - I was going to need that to work out what colour to paint each panel.
+I've put the code into a [climatefence repository on Github](https://github.com/andysouth/climatefence/blob/main/climatefence-R-code.md).
 
 ...
 
