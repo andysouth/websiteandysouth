@@ -10,14 +10,14 @@ authors:
 #   - course: BSc Biology
 #     institution: UEA
 #     year: 2009
-email: "andy.south@lstmed.ac.uk"
+email: "southandy@gmail.com"
 #interests:
 #- R
 name: Andy South
 organizations:
-- name: Liverpool School of Tropical Medicine
-  url: "https://www.lstmed.ac.uk/about/people/dr-andy-south"
-#role: post-doc
+- name: University College London Hospitals
+  url: "https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit"
+#role: Data Engineer
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -37,4 +37,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a data scientist & R open-source software developer working in health. I'm currently leading the [afrimapr](http://www.afrimapr.org) project, developing R building-blocks, training and community to ease the use of spatial health data in Africa. I'm also providing [data science training](https://github.com/uclh-criu/learning-datascience) and mentoring for a group of clinicians at University College London Hospital.
+I'm a data engineer & R open-source software developer working in health. I work at University College London Hospitals, mostly OMOPifying data using R (I will write more about what that means at some point! In short, the OMOP Common Data Model (CDM) is a, community developed, set of international standards for representing health data. The broad idea is that, instead of writing data tools for the weird and wonderful variety of hospital data systems, one converts data to a common format then all can use common tools). 
+
+Previously I led the [afrimapr](http://www.afrimapr.org) project, developing R building-blocks, training and community to ease the use of spatial health data in Africa. 
